@@ -12,7 +12,9 @@ function Mainbody() {
           <Card productObject={product} />
         ))}
     
-        
+        {
+          //
+        }
         
         
       </div>
